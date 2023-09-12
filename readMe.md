@@ -1,8 +1,8 @@
-# My Coding Book for Young Learners 📘
+# My Web Book for Young Learners 📘
 
 ## Description 📝
 
-Welcome to "My Coding Book for Young Learners"! This repository is a collection of Markdown files that serve as chapters for a beginner-friendly coding tutorial book. Each chapter is designed to be easy to understand and covers various programming concepts. Perfect for kids and teens who are taking their first steps into the world of coding!
+Welcome to "My Web Book for Young Learners"! This repository is a collection of Markdown files that serve as chapters for a beginner-friendly coding tutorial book. Each chapter is designed to be easy to understand and covers various programming concepts. Perfect for kids and teens who are taking their first steps into the world of coding!
 
 # Table of Contents 📚
 
