@@ -15,10 +15,10 @@ Welcome to "My Web Book for Young Learners"! This repository is a collection of 
 7. [CSS: Advanced Info About Making Things Good](./CSS/CSS-advanced.md) - 3 Days (Approx. 1.5 hours each day)
 8. [Bootstrap: Speed Up Your Web Development - Part 1](./BOOTSTRAP/Bootstrap-part-1.md) - 2 Days (Approx. 1.5 hours each day)
 9. [Bootstrap: Speed Up Your Web Development - Part 2](./BOOTSTRAP/Bootstrap-part-2.md) - 2 Days (Approx. 1.5 hours each day)
-10. [Breakpoint: Simple Food Website With HTML and CSS](./MARKUP_BREAKPOINT/Breakpoint-1.md) - 3 Days (Approx. 1.5 hours each day)
-11. [Breakpoint: Simple Food Website With HTML and Bootstrap CSS](./MARKUP_BREAKPOINT/Breakpoint-2.md) - 3 Days (Approx. 1.5 hours each day)
-12. [Basics - Commentary](./COMMENTARY//Basics-commentary.md) - 1 Day (Approx. 1 hour)
-13. [Bootstrap: Speed Up Your Web Development - Part 3](./BOOSTRAP/Bootstrap-part-3.md) - 2 Days (Approx. 1.5 hours each day)
+10. [Bootstrap: Speed Up Your Web Development - Part 3](./BOOTSTRAP/Bootstrap-part-3.md) - 2 Days (Approx. 1.5 hours each day)
+11. [Breakpoint: Simple Food Website With HTML and CSS](./MARKUP_BREAKPOINT/Breakpoint-1.md) - 3 Days (Approx. 1.5 hours each day)
+12. [Breakpoint: Simple Food Website With HTML and Bootstrap CSS](./MARKUP_BREAKPOINT/Breakpoint-2.md) - 3 Days (Approx. 1.5 hours each day)
+13. [Basics - Commentary](./COMMENTARY//Basics-commentary.md) - 1 Day (Approx. 1 hour)
 
 ## How to Use 🤔
 
