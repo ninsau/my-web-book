@@ -6,7 +6,7 @@ Welcome to "My Coding Book for Young Learners"! This repository is a collection 
 
 ## Table of Contents 📚
 
-1. [Introduction to Web Development](./Introduction.md)
+1. [Introduction to Web Development](./INTRODUCTION.md)
 2. [HTML: The Building Blocks of the Web](./HTML/HTML.md)
 3. [HTML: More About The Building Blocks of the Web](./HTML/HTML-more.md)
 4. [HTML: Advanced Info About The Building Blocks of the Web](./HTML/HTML-advanced.md)
